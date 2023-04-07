@@ -5,20 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerotwodsc" alt="zerotwodsc" /></a> </p>
 
-- 🔭 I’m currently working on [SpaceProtect 🪐](https://github.com/ZeroTwoDsc)
+- 🔭 I’m currently working on [NitroGenerator](https://github.com/ZeroTwoDsc)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZeroTwoDsc](https://github.com/ZeroTwoDsc)
 
 - 💬 Ask me about **all you want to know**
 
-- 📫 How to reach me **tim.le.papa.noel@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/tim.le.papa.noel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tim.le.papa.noel" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.com/users/609789863881080852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.com/users/609789863881080852" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
